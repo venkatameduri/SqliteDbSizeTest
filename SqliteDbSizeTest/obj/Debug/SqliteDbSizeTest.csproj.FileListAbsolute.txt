@@ -1,0 +1,20 @@
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.exe.config
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\x64\SQLite.Interop.dll
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\x86\SQLite.Interop.dll
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.exe
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.pdb
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\System.Data.SQLite.dll
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.exe
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.pdb
+c:\users\vmeduri\documents\visual studio 2012\Projects\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.csprojResolveAssemblyReference.cache
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.exe.config
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.exe
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.pdb
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\x64\SQLite.Interop.dll
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\x86\SQLite.Interop.dll
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.exe
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\SqliteDbSizeTest.pdb
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\System.Data.SQLite.dll
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\EnlistmentGithib\SqliteDbSizeTest\SqliteDbSizeTest\obj\Debug\SqliteDbSizeTest.csprojResolveAssemblyReference.cache
