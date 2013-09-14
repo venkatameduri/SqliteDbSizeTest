@@ -14,7 +14,7 @@ namespace SqliteDbSizeTest
     {
         static void Main(string[] args)
         {
-            string filename = Path.Combine(Directory.GetCurrentDirectory(), "user3contacts");
+            string filename = Path.Combine(Directory.GetCurrentDirectory(), "usercontacts");
             // Creates new sqlite database if it is not found
             using (var conn = new SQLiteConnection(@"Data Source=" + filename))
             {                
