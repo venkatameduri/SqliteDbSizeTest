@@ -23,7 +23,7 @@ namespace SqliteDbSizeTest
                 stopwatch.Start();
                 using (var cmd = new SQLiteCommand(conn))
                 {                 
-                    for (int i = 1; i < 10000; i++)
+                    for (int i = 1; i < 1000; i++)
                     {
                         cmd.CommandText = "INSERT INTO contactdata VALUES ('" +
                             Guid.NewGuid().ToString() + "','" +
